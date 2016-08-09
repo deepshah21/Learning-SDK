@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="com.liferay"
+		module="guestbook-portlet"
+		revision="working@mind-PC"
+		conf="internal"
+		confs="default, internal"
+		date="20160808143348"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
