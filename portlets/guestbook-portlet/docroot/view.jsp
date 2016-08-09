@@ -19,3 +19,4 @@
 <portlet:defineObjects />
 
 This is the <b>Guestbook</b> portlet.
+the end
